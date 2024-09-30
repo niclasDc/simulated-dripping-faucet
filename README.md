@@ -37,9 +37,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Nicolas Alvarez - nialvareztt@unal.edu.co
+
 Laura Nicole Bermudez Santa - labermudezs@unal.edu.co
 
-Project Link: [https://github.com/niclasDc/mushroom-classification-enhanced](https://github.com/niclasDc/mushroom-classification-enhanced)
+Project Link: [simulated-dripping-faucet](https://github.com/niclasDc/simulated-dripping-faucet)
 
 <!-- Markdown Links & Images -->
 
